@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://adam-01.github.io/2022/04/17/2022DASCTF%20X%20SU%20%E4%B8%89%E6%9C%88%E6%98%A5%E5%AD%A3%E6%8C%91%E6%88%98%E8%B5%9B-PWN/</loc>
+    <lastmod>2022-04-17</lastmod>
+  </url>  <url>
     <loc>https://adam-01.github.io/2021/11/30/%E5%AE%89%E6%B4%B5%E6%9D%AF2021-pwn/</loc>
     <lastmod>2022-01-04</lastmod>
   </url>  <url>
